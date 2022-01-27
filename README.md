@@ -63,6 +63,9 @@ SOFTWARE.
 #### LinkedIn Profile 
 [kevin-malomba](https://ke.linkedin.com/in/kevin-malomba-44ba731a3?trk=people-guest_people_search-card)
 
+####Twitter Profile
+[kmalomba](https://twitter.com/kmalomba)
+
 [Go Back to the top](#BurgerBeast)
 
 
