@@ -1,3 +1,8 @@
+* {
+    font-style: Poppins;
+    overflow: auto;
+}
+
 .Navigation {
     display: flex;
     justify-content: space-between;
@@ -43,17 +48,17 @@ a:hover {
     background-size: cont;
 }
 
-.About {
+.about {
     display: flex;
-    justify-content: space-between;
-    background-color: lightgray;
+    justify-content: space-evenly;
 }
 
-.Q1 {
+
+/* .Q1 {
     border: 1px solid;
     padding: 0 20px;
     float: right;
-}
+} */
 
 #order_button {
     background-color: #F6B400;
