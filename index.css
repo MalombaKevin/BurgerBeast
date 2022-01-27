@@ -15,8 +15,8 @@
 }
 
 body {
-    margin-left: 300px;
-    margin-right: 300px;
+    /* margin-left: 300px;
+    margin-right:  */
     padding-top: 30px;
     padding-right: 100px;
     font-family: Poppins;
@@ -29,16 +29,36 @@ a:hover {
 
 .intro {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+}
+
+.description {
+    margin-top: 10rem;
+    margin-right: 50rem;
 }
 
 .image1 {
-    background-color: chartreuse;
+    /* background-color: chartreuse; */
     background-clip: calc(40 50);
     background-size: cont;
 }
 
-.header {
+.About {
     display: flex;
-    flex-wrap: ;
+    justify-content: space-between;
+    background-color: lightgray;
+}
+
+.Q1 {
+    border: 1px solid;
+    padding: 0 20px;
+    float: right;
+}
+
+#order_button {
+    background-color: #F6B400;
+    padding: 20px;
+    text-transform: capitalize;
+    border-radius: 30px 30px 0 30px;
+    border: #F6B400;
 }
