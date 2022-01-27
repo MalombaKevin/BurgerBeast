@@ -24,7 +24,6 @@
 
 * An access to the Internet
 
-[Go Back to the top](#BurgerBeast)
 
 
 ## Technology Used
@@ -56,12 +55,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 [Go Back to the top](#BurgerBeast)
 
 
 ## Authors Info
-Twitter Profile - [KMalomba] (https://twitter.com/kmalomba)
-LinkedIn Profile - [Kevin-Malomba] (https://ke.linkedin.com/in/kevin-malomba-44ba731a3?trk=people-guest_people_search-card)
+Twitter Profile - (https://twitter.com/kmalomba)
+LinkedIn Profile - (https://ke.linkedin.com/in/kevin-malomba-44ba731a3?trk=people-guest_people_search-card)
 
 [Go Back to the top](#BurgerBeast)
 
