@@ -1,0 +1,25 @@
+.Navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    display: inline;
+    font-size: large;
+}
+
+.bur {
+    display: inline;
+    font-size: 30px;
+}
+
+body {
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-top: 30px;
+    padding-right: 100px;
+}
+
+a:hover {
+    color: red;
+}
