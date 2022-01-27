@@ -60,8 +60,12 @@ SOFTWARE.
 
 
 ## Authors Info
-Twitter Profile - (https://twitter.com/kmalomba)
-LinkedIn Profile - (https://ke.linkedin.com/in/kevin-malomba-44ba731a3?trk=people-guest_people_search-card)
+
+# Twitter Profile 
+https://twitter.com/kmalomba
+
+# LinkedIn Profile 
+ https://ke.linkedin.com/in/kevin-malomba-44ba731a3?trk=people-guest_people_search-card
 
 [Go Back to the top](#BurgerBeast)
 
