@@ -8,7 +8,7 @@
 + [Description](#description)
 + [Access](#Access)
 + [Requirements](#requirements)
-+ [Technology](#Technology Used)
++ [Technology Used](#Technology-Used)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 
@@ -24,6 +24,7 @@
 
 * An access to the Internet
 
+[Go Back to the top](#BurgerBeast)
 
 
 ## Technology Used
@@ -31,6 +32,7 @@
 
 * CSS - which was used to style the pages to make it appealing. Used in styling the buttons and navigation bar
 
+[Go Back to the top](#BurgerBeast)
 
 ## Licence
 
@@ -54,10 +56,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+[Go Back to the top](#BurgerBeast)
 
 
 ## Authors Info
+Twitter Profile - [KMalomba] (https://twitter.com/kmalomba)
+LinkedIn Profile - [Kevin-Malomba] (https://ke.linkedin.com/in/kevin-malomba-44ba731a3?trk=people-guest_people_search-card)
+
+[Go Back to the top](#BurgerBeast)
 
 
 
