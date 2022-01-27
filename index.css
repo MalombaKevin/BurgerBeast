@@ -6,6 +6,7 @@
 .list {
     display: inline;
     font-size: large;
+    margin: 0 20px;
 }
 
 .bur {
@@ -14,12 +15,30 @@
 }
 
 body {
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 300px;
+    margin-right: 300px;
     padding-top: 30px;
     padding-right: 100px;
+    font-family: Poppins;
+    overflow: auto;
 }
 
 a:hover {
     color: red;
+}
+
+.intro {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image1 {
+    background-color: chartreuse;
+    background-clip: calc(40 50);
+    background-size: cont;
+}
+
+.header {
+    display: flex;
+    flex-wrap: ;
 }
