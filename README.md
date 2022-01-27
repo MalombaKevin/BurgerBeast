@@ -31,7 +31,6 @@
 
 * CSS - which was used to style the pages to make it appealing. Used in styling the buttons and navigation bar
 
-[Go Back to the top](#BurgerBeast)
 
 ## Licence
 
@@ -59,13 +58,10 @@ SOFTWARE.
 [Go Back to the top](#BurgerBeast)
 
 
-## Authors Info
+## Authors Info 
 
-# Twitter Profile 
-https://twitter.com/kmalomba
-
-# LinkedIn Profile 
- https://ke.linkedin.com/in/kevin-malomba-44ba731a3?trk=people-guest_people_search-card
+#### LinkedIn Profile 
+[kevin-malomba](https://ke.linkedin.com/in/kevin-malomba-44ba731a3?trk=people-guest_people_search-card)
 
 [Go Back to the top](#BurgerBeast)
 
