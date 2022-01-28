@@ -1,6 +1,5 @@
 * {
     font-style: Poppins;
-    overflow: auto;
 }
 
 .Navigation {
@@ -26,6 +25,8 @@ body {
     padding-right: 100px;
     font-family: Poppins;
     overflow: auto;
+    width: 70%;
+    margin: auto;
 }
 
 a:hover {
@@ -39,7 +40,7 @@ a:hover {
 
 .description {
     margin-top: 10rem;
-    margin-right: 50rem;
+    margin-right: 15rem;
 }
 
 .image1 {
@@ -51,6 +52,9 @@ a:hover {
 .about {
     display: flex;
     justify-content: space-evenly;
+    text-align: center;
+    background-color: #E1EBE6;
+    padding: 100px 0;
 }
 
 
@@ -66,4 +70,11 @@ a:hover {
     text-transform: capitalize;
     border-radius: 30px 30px 0 30px;
     border: #F6B400;
+}
+
+.quality {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 50px 20px;
+    border-radius: 30px 30px;
 }
